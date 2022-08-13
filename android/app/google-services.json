@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "886957562368",
+    "project_id": "punkpanda-1798e",
+    "storage_bucket": "punkpanda-1798e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:886957562368:android:afe278ac4bc8082830d6e5",
+        "android_client_info": {
+          "package_name": "com.example.punkpanda"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "886957562368-ssq9bjfgmf9qj94ij1vjn62hcmrjtv19.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDMby2W5kjZxXVNNiZJN-ZXWpHQjCCg18c"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "886957562368-ssq9bjfgmf9qj94ij1vjn62hcmrjtv19.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
